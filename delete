@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Delete Your Booh Brawlers Account</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.8;
+      background-color: #f9f9f9;
+      color: #222;
+      margin: 0;
+      padding: 2rem;
+    }
+
+    main {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+
+    h1 {
+      color: #1e1e1e;
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    h2 {
+      margin-top: 2rem;
+      font-size: 1.4rem;
+      color: #333;
+      border-bottom: 1px solid #e0e0e0;
+      padding-bottom: 0.25rem;
+    }
+
+    p {
+      margin: 0.75rem 0;
+    }
+
+    ul {
+      margin: 0.5rem 0 1rem 1.5rem;
+    }
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 1rem;
+      }
+
+      main {
+        padding: 1.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Delete Your Booh Brawlers Account</h1>
+
+    <p>If you wish to permanently delete your Booh Brawlers account and all associated data, you can do so directly from within the app.</p>
+
+    <h2>How to Delete Your Account</h2>
+    <ul>
+      <li>Open the Booh Brawlers app</li>
+      <li>Tap the <strong>Settings</strong> icon (gear symbol)</li>
+      <li>Scroll down and select <strong>Delete Account</strong></li>
+      <li>Confirm your decision when prompted</li>
+    </ul>
+
+    <p>This process is irreversible and will permanently remove all of your stored data, including:</p>
+    <ul>
+      <li>Your email address</li>
+      <li>Username and password</li>
+      <li>Public wallet address</li>
+      <li>Progress and game data</li>
+    </ul>
+
+    <p>If you are unable to access the app, you may request manual account deletion by emailing us at <strong>info@boohworld.com</strong>. Please allow up to 7 business days for processing.</p>
+  </main>
+</body>
+</html>
